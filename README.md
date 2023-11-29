@@ -7,7 +7,7 @@ This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT whil
 * [Nodejs](https://nodejs.org/en)
 
 ### Frontend
-* [React](https://react.dev/)
+* [React](https://react.dev/), VITE
 
 ## Installation
 * Clone this repo `
@@ -25,3 +25,5 @@ This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT whil
 * Start the local server ``npm run dev``
 
 *That will open the project on your default browser: http://127.0.0.1:5173/. You can now chat with the AI from your browser*
+
+Here we used text-davinci-003 model for chat completion and text-embedding-ada-002 for chat completion
